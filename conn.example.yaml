@@ -1,0 +1,14 @@
+c1:
+  luser: <username>
+  lpass: <password>
+  future_info: false
+  mfix:
+  - TX00
+  opclp: 0
+  opcrp: 0
+  opplp: 0
+  opprp: 0
+  sopclp: 0
+  sopcrp: 0
+  sopplp: 0
+  sopprp: 0
